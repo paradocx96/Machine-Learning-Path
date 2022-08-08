@@ -313,20 +313,20 @@ Tesla uses high automated processes to manufacture their cars. They use robotic 
 * Load balancing
 * Retraining
 
-## DATA ENGINEER vs DATA ANALYST vs DATA SCIENTIST vs ML ENGINEER
+## JOB ROLES in (AI / ML / DL)
 
 * MLDLC has several phases, In a large company, each job role is assigned for a specific phase.
 
 ### DATA ENGINEER
 
-**Job Roles**
+**Responsibilities**
 
 * Scrape data from the given sources
 * Move or store data in optimal servers / data warehouses.
 * Build data pipelines. / APIs for easy access to the data.
 * Handle databases / Data warehouses.
 
-**Skills required**
+**Skills**
 
 * Strong grasp of algorithms and data structures.
 * Programming languages(Java/Python/R/Scala)
