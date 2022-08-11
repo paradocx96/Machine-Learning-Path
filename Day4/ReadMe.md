@@ -47,13 +47,13 @@
 * 3-D tensor is a cuboid
 * Collection of 3-D tensors is a 4-D tensor
 
-![img.png](assets/4dTensor.png)
+![4d Tensor](assets/4dTensor.png)
 
 ### 5-D TENSOR
 
 * Matrix of 4-D tensor
 
-![img.png](assets/5dTensor.png)
+![5d Tensor](assets/5dTensor.png)
 
 ### 6-D TENSOR
 
@@ -63,6 +63,14 @@
 
 * Number of axes = Rank = Number of dimensions
 * Shape: how many items can be stored in an axis
+* Eg: shape(rows/columns) -> shape(2,3)
 
-![img.png](assets/RkAxShp.png)
+![RkAxShp](assets/RkAxShp.png)
 
+## SIZE OF A TENSOR
+
+* Multiplication of the shape
+* Size of scaler = 1
+* Size of vector = number of elements in the vector
+
+## EXAMPLE
