@@ -169,14 +169,14 @@
 1. Magic 7’s
 2. Business concept and the data and the Technical concept
 
-## BUSINESS CONCEPT VS TECHNICAL CONCEPT
+## BUSINESS CONCEPT vs TECHNICAL CONCEPT
 
-| Business Concept                                     | Data         | Technical Concept                |
-|------------------------------------------------------|--------------|----------------------------------|
-| Human can analyze, Identify pattern & Make Decision. | Numerical    | Machine Learning & Deep Learning |
-| Human can listen & Speak                             | Text/Audio   | ML/DL/NLP                        |
-| Human Can see & Recognize                            | Image/ Video | Computer vision & Deep Learning  |
-| Brain signal processing                              | EEG          | ML/DL                            |
+| Business Concept                                     | Data          | Technical Concept    |
+|------------------------------------------------------|---------------|----------------------|
+| Human can analyze, Identify pattern & Make Decision. | Numerical     | ML & DL              |
+| Human can listen & Speak                             | Text / Audio  | ML / DL / NLP        |
+| Human Can see & Recognize                            | Image / Video | Computer Vision & DL |
+| Brain signal processing                              | EEG           | ML / DL              |
 
 ### HOW A COMPANY GENERATE PROFITS?
 
@@ -184,14 +184,14 @@
 2. Getting more revenue from existing customers.
 3. Reducing the churn rate (stop subscribing to a service)
 
-## Magic 7’s
+* Eg: Netflix, Facebook, Twitter, Google
 
-### 1.CONVERT BUSINESS PROBLEM TO ML PROBLEM
+#### 1.CONVERT BUSINESS PROBLEM TO ML PROBLEM
 
 * Convert the Business Problem to a mathematical problem.
 * Ex: Reduce the Churn rate from 5% to 4.75%
 
-### 2. TYPE OF PROBLEM
+#### 2. TYPE OF PROBLEM
 
 * Identify the big picture (Identify the end product)
 * Main goal: Churn rate reduction?
@@ -203,26 +203,28 @@
 * Supervised learning → Classification → Stealing or Not
 * Offer the discount and see what is the probability that he is leaving the platform → It is now a regression problem.
 
-### 3. CURRENT SOLUTION
+#### 3. CURRENT SOLUTION
 
 * Overall churn rate% measured by an existing model;
 * Factors considered for the existing model.
 
-### 4. GETTING DATA
+#### 4. GETTING DATA
 
 1. Watch time:
 2. Search but did not find
 3. Content left in the middle
 4. Clicked on recommendations
 
-### 5. METRICS TO MEASURE
+#### 5. METRICS TO MEASURE
 
 * Model successful or not?
 * How accuracy of the model?
 
-### 6. ONLINE OR BATCH
+#### 6. ONLINE OR BATCH
 
-### 7. CHECK ASSUMPTIONS
+* Select the learning method (Online / Batch)
+
+#### 7. CHECK ASSUMPTIONS
 
 * Will your attributes available?
 * Single model or multi model ?
